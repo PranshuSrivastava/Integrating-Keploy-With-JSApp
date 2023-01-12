@@ -17,5 +17,6 @@ This updates all the environment variables.
 - Now make some API calls and check the Keploy UI, your testcases should be recorded.
 - When you are done recording the testcases go to the .env file and change the keploy mode from record to test.
 - Update the environment variables using the command mentioned above, and start the server again. The test results will be shown on the terminal.
+- Before you start testing, you can also give your app a unique name in the .env file by changing the KEPLOY_APP_NAME field.
 
-If you have any doubts feel free to reach out.
+If you have any doubts feel free to reach out :)
